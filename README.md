@@ -1,2 +1,2 @@
-Nhữ Trung Hải
-MSV: 23810310247
+# Nhữ Trung Hải
+# MSV: 23810310247
